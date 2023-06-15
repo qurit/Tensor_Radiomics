@@ -1,5 +1,5 @@
 # Tensor Radiomics:  Discretization flavours 
-By Natalia Dubljevic (@pasalacquaian)
+By Natalia Dubljevic (@pasalacquaian) and Amirhossein Toosi (@Amirhosein2c)
 
 The proposed TR approach primarily leverages explainable, handcrafted radiomics features at different discretization levels. Discretization involves grouping the original range of pixel intensities into specific intervals or bins, which is essential for computational feasibility of certain features. For instance, this can be achieved by fixing the bin widths (BW) or the number of bins (bin counts (BC)).
 
